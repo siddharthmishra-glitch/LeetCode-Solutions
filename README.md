@@ -13,14 +13,17 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/siddharthmishra-glitch/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/siddharthmishra-glitch/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/siddharthmishra-glitch/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/siddharthmishra-glitch/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/siddharthmishra-glitch/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/siddharthmishra-glitch/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Linked List
 |  |
 | ------- |
@@ -36,4 +39,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/siddharthmishra-glitch/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/siddharthmishra-glitch/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
