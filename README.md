@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siddharthmishra-glitch/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/siddharthmishra-glitch/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,8 +45,13 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/siddharthmishra-glitch/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/siddharthmishra-glitch/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/siddharthmishra-glitch/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Sorting
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/siddharthmishra-glitch/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
